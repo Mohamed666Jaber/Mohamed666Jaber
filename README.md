@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed666Jaber&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohamed666Jaber&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed666Jaber&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![<mjaber>'s 42 stats](https://badge.mediaplus.ma/darkblue/mjaber)](https://github.com/oakoudad/badge42)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohamed666Jaber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
